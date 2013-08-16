@@ -8,7 +8,10 @@ DisplayStrings = (
 /unif108,
 /unif109,
 /unif111,
-/unif129
+/unif129,
+"",
+/unif108,
+/unif108
 );
 date = "2013-08-16 02:07:48 +0000";
 designer = "Ben Dunkle";
@@ -463,16 +466,15 @@ unicode = F107;
 },
 {
 glyphname = unif108;
-lastChange = "2013-08-16 15:12:20 +0000";
+lastChange = "2013-08-16 15:40:34 +0000";
 layers = (
 {
 layerId = "E25C3135-82A9-4CDA-9926-8EBA41D4E51C";
 name = Regular;
 paths = (
 {
-closed = 0;
+closed = 1;
 nodes = (
-"2200 1900 LINE",
 "2200 1900 OFFCURVE",
 "1718 1900 OFFCURVE",
 "1182 1900 CURVE SMOOTH",
@@ -502,6 +504,12 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"2133 1600 OFFCURVE",
+"2200 1533 OFFCURVE",
+"2200 1450 CURVE SMOOTH",
+"2200 1367 OFFCURVE",
+"2133 1300 OFFCURVE",
+"2050 1300 CURVE",
 "700 1300 LINE",
 "700 750 LINE SMOOTH",
 "700 667 OFFCURVE",
@@ -514,13 +522,7 @@ nodes = (
 "400 1533 OFFCURVE",
 "467 1600 OFFCURVE",
 "550 1600 CURVE SMOOTH",
-"2050 1600 LINE SMOOTH",
-"2133 1600 OFFCURVE",
-"2200 1533 OFFCURVE",
-"2200 1450 CURVE SMOOTH",
-"2200 1367 OFFCURVE",
-"2133 1300 OFFCURVE",
-"2050 1300 CURVE"
+"2050 1600 LINE SMOOTH"
 );
 }
 );
